@@ -2,7 +2,7 @@
 
 Discord webhook'lerini analiz etmek, test etmek ve yönetmek için güçlü bir web tabanlı araç.
 
-![Discord Webhook Inspector](https://i.hizliresim.com/n3bdatg.png)
+![Discord Webhook Inspector](Screenshot_1.png)
 
 ## Özellikler
 
